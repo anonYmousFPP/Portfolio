@@ -57,7 +57,7 @@ const items = [
   {
     id: 5,
     img: "/p5.png",
-    title: "Animated Portfolio Website",
+    title: "Animated Portfolio",
     desc: `This animated portfolio website showcases my education, professional experience, projects, problem-solving skills, and technical expertise in a visually engaging and interactive way.
 
     Key features include:
@@ -65,7 +65,7 @@ const items = [
     ● Professional Experience: Details about the companies I've worked with, my roles.
     ● Project Showcase: A dedicated section for my projects, complete with descriptions, images, and live links.
     ● Problem-Solving Skills: A section highlighting my expertise in Data Structures and Algorithms (DSA).`,
-    link: "/https://dummy.com",
+    link: "https://portfolio-abhays-projects-caa0dc14.vercel.app/",
   },
 ];
 
